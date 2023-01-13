@@ -1,0 +1,22 @@
+body {  
+  margin: 0;
+  font-family: 'Roboto',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#bodyID {
+  font-family: 'Roboto';
+  /* https://codepen.io/P1N2O/pen/pyBNzX */
+  background-color: #EA5F8E;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+
+
